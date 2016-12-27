@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "docs": "esdoc"
+  },
+  "devDependencies": {
+    "esdoc": "^0.5.1"
+  }
+}
